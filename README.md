@@ -45,6 +45,3 @@ Sample SuperStore Sales dataset containing order customer product sales profit a
 **Author**
 Hilal Khan
 BS Computer Science Data Analytics and Power BI Enthusiast
-
-
-If you want an even **shorter version** for quick GitHub visitors or a **resume style project description**, tell me and I’ll rewrite it cleanly.
