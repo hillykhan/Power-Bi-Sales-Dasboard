@@ -1,4 +1,4 @@
-**Power-Bi-Sales-Dasboard**
+**Power-Bi-Sales-Dassboard**
 Project Overview
 The dashboard provides a complete view of business performance by combining sales analysis operational insights and forecasting to support data driven decision making.
 
